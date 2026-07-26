@@ -3,13 +3,12 @@
 </div>
 
 <p align="center">
-<a href="https://github.com/maidha-cs"><img src="https://readme-typing-svg.herokuapp.com?lines=CS+Undergraduate;Data+Science+Enthusiast;Machine+Learning+%26+Deep+Learning;Exploring+Agentic+AI&center=true&width=500&height=50"></a>
+<a href="https://github.com/maidha-cs"><img src="https://readme-typing-svg.herokuapp.com?lines=Oracle+Certified;Data+Scientist;Machine+learning+Engineer;Agentic+AI+Engineer&center=true&width=500&height=50"></a>
 </p>
 
 ## 👋 About Me
 
-I'm an undergraduate Computer Science student, passionate about Python, Data Science, and Machine Learning.
-
+I'm Oracle Certified Data Scientist and Machine learning Engineer, passionate about Deep Learning, Natural Language Processing, Large Language Model.
 - 🔭 Currently exploring Data Science, Machine Learning, Deep Learning, and Agentic AI
 - 🌱 Building foundational strength in core programming and ML libraries
 - 🏆 Oracle Certified: **Agentic AI Certified Foundations Associate**
